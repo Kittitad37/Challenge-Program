@@ -1,3 +1,5 @@
+//https://www.borntodev.com/devlab/task/220
+
 import java.util.Scanner;
 
 public class repeater {
