@@ -15,7 +15,7 @@ public class remove_vowel {
 
         StringBuilder str = new StringBuilder();
 
-         for (char c : val.toCharArray()) {
+        for (char c : val.toCharArray()) {
             if(!lista.contains(c)){
                 str.append(c);
             }

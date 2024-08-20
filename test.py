@@ -1,7 +1,4 @@
-first = 0
-second = 1
-while second < 100:
-    print (second)
-    temp = second
-    second = second+first
-    first = temp
+import numpy as np
+
+x = np.array([[1, 2, 3, 4], (5, 6, 0, 0)])
+print(x.ndim)
