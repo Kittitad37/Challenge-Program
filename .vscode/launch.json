@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "secret_code",
+      "request": "launch",
+      "mainClass": "secret_code",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "add_bracket",
+      "request": "launch",
+      "mainClass": "add_bracket",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "multiple",
+      "request": "launch",
+      "mainClass": "multiple",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "matrix",
+      "request": "launch",
+      "mainClass": "matrix",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "uppercase",
+      "request": "launch",
+      "mainClass": "uppercase",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
       "name": "pyramid3",
       "request": "launch",
       "mainClass": "pyramid3",

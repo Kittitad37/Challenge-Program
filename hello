@@ -1,0 +1,11 @@
+function isEven (number) {
+    let string
+    if (number % 2 === 0) {
+        string= '${number}เป็นตัวเลขคู่'
+    } else {
+        string='${number}เป็นตัวเลขดี่'
+    }
+    return string
+}
+
+isEven (7)
