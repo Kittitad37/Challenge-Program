@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "location",
+      "request": "launch",
+      "mainClass": "location",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "locatior",
+      "request": "launch",
+      "mainClass": "locatior",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "blacksheep",
+      "request": "launch",
+      "mainClass": "blacksheep",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "secret_sentence",
+      "request": "launch",
+      "mainClass": "secret_sentence",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
       "name": "factorial",
       "request": "launch",
       "mainClass": "factorial",
