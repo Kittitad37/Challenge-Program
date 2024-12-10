@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "atoi",
+      "request": "launch",
+      "mainClass": "atoi",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "remove_dup",
+      "request": "launch",
+      "mainClass": "LeetCode.Java.remove_dup",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
+      "name": "ball",
+      "request": "launch",
+      "mainClass": "ball",
+      "projectName": "Challenge-Program_6f423e52"
+    },
+    {
+      "type": "java",
       "name": "location",
       "request": "launch",
       "mainClass": "location",
@@ -96,8 +117,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/kittitad/Documents/GitHub/Challenge-Program/POSN_Ex/Problem_set_1",
-      "program": "/Users/kittitad/Documents/GitHub/Challenge-Program/POSN_Ex/Problem_set_1/build/Debug/outDebug"
+      "cwd": "/Users/kittitad/Documents/GitHub/Challenge-Program/LeetCode/Java",
+      "program": "/Users/kittitad/Documents/GitHub/Challenge-Program/LeetCode/Java/build/Debug/outDebug"
     }
   ]
 }
